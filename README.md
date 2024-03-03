@@ -1,1 +1,1 @@
-# Gmeet_Mimic
+A Google Meet Mimic using React and redux as front-end,firebase as database and utilizes WebRTC to establish the connection and to transmit the media between the connected users with the basic functionalities such as audio, video and share screen.
